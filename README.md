@@ -1,2 +1,2 @@
 # flask
-pagina de prueba siguiendo el tutorial de flask
+Tutorial de uso del flask con una aplicacion web simple
